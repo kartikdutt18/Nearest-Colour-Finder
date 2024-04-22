@@ -1,6 +1,6 @@
 'use client'
 
-import { getColourNameFromRGB } from "@/colour-finder/find-nearest-colour";
+import { getColourNameFromRGB } from "color-name-finder";
 import React from "react";
 import { RgbaColorPicker } from "react-colorful";
 
