@@ -1,0 +1,16 @@
+{
+  "name": "color-name-finder",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/find-nearest-colour.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc find-nearest-colour.ts --outDir lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
